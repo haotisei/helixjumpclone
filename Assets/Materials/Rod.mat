@@ -115,7 +115,11 @@ Material:
     - Color_4b8719780f864b129cc3caa3877b0499: {r: 1, g: 0.4292453, b: 0.4292453, a: 1}
     - Color_da408cf52ae841bea945aefbe91454d0: {r: 0.8301887, g: 0.505162, b: 0.505162, a: 1}
     - Vector2_f4bdd59b13404aefaa86b58b9cd64c70: {r: 0.2, g: 0, b: 0, a: 0}
+<<<<<<< Updated upstream
     - _BaseColor: {r: 1, g: 0.8194425, b: 0.28773582, a: 1}
+=======
+    - _BaseColor: {r: 0.9433962, g: 0.7636514, b: 0.13794944, a: 1}
+>>>>>>> Stashed changes
     - _Color: {r: 0.9618345, g: 0.9716981, b: 0.43543077, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
